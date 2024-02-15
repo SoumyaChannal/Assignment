@@ -1,0 +1,13 @@
+.asd{
+    border: 14px solid purple;
+    font-size: large;
+    font-style: italic;
+    font-weight: 800;
+    padding: 50px;
+    text-align: center;
+    margin:30px;
+
+}
+p:hover{
+    color:darkgreen;
+}
